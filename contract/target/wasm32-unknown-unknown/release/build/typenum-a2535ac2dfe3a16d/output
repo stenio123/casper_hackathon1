@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/stenio123/Projects/Austin/casper/stenio-project/contract/target/wasm32-unknown-unknown/release/build/typenum-a2535ac2dfe3a16d/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/stenio123/Projects/Austin/casper/stenio-project/contract/target/wasm32-unknown-unknown/release/build/typenum-a2535ac2dfe3a16d/out/op.rs
